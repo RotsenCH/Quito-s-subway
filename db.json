@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "metro": [
+    {
+      "nombre": "Hola",
+      "sector": "Hola",
+      "salida": "Hola",
+      "llegada": "Hola",
+      "maquinista": "Hola2",
+      "detalles": "Hola",
+      "id": "2b60c37f-df47-441d-b25f-7e2f51feef77"
+    },
+    {
+      "nombre": "s",
+      "sector": "s",
+      "salida": "s",
+      "llegada": "s",
+      "maquinista": "s",
+      "detalles": "s",
+      "id": "c8b30aea-e414-4b64-894c-a6b6e7f4049a"
+    },
+    {
+      "nombre": "xd",
+      "sector": "setFormError(Object.values(form).includes(\"\") || Object.entries(form).length === 0);",
+      "salida": "v",
+      "llegada": "setFormError(Object.values(form).includes(\"\") || Object.entries(form).length === 0);",
+      "maquinista": "setFormError(Object.values(form).includes(\"\") || Object.entries(form).length === 0);",
+      "detalles": "v        setFormError(Object.values(form).includes(\"\") || Object.entries(form).length === 0);",
+      "id": "d2a845ca-2c43-446b-8e01-ef3a9038f23b"
+    },
+    {
+      "nombre": "xd",
+      "id": "c05f8db6-e4d3-4b61-836d-1ccc8e90bed8"
+    }
+  ]
+}
